@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello somnath
+=======
+hi somnath
+>>>>>>> bug1
